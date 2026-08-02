@@ -43,5 +43,5 @@
 
 </body>
 </html>
-
+C:\php\php.exe -S localhost:8000
 <!--LEMBRETE PRA TESTAR ESSA PORCARIA Q DEMOROU FAZER (APERTA F1>>>>>>ESCREVA "SIMPLE" DAÍ ELE JÁ VAI PUXAR O RESTO [SIMPLE BRROSER: SHOW]  CLICA NESSA DROGA>>>>DAÍ RODA O CÓDIGO C:\php\php.exe -S localhost:8000 [pelo menos na minha máquina local] e então pega o link doo terminal e cola nesse tal simples browser-->
